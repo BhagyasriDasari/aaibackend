@@ -1,4 +1,4 @@
-# Backend Developer Internship Assignment
+# Backend Developer 
 
 ## Features
 - JWT Authentication
